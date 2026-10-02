@@ -49,12 +49,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj292929292929&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj292929292929&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajchaudhary-11&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajchaudhary-11&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj292929292929&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajchaudhary-11&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/suraj-chaudhary-04a3a031b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/suraj292929292929" target="_blank">
+  <a href="https://github.com/surajchaudhary-11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -84,7 +84,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suraj292929292929&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=surajchaudhary-11&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
 
 <p align="center">⭐ <i>Star my repos if you find them helpful — it motivates me to build more!</i> ⭐</p>
