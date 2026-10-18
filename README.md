@@ -2,7 +2,7 @@
 
 # Suraj Chaudhary
 
-### Aspiring Generative AI Engineer · Python Developer · Full Stack Developer
+### Generative AI Engineer · Python Developer · Full Stack Developer
 
 BCA Student at Manipal University Jaipur
 
